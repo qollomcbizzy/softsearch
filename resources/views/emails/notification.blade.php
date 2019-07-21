@@ -1,0 +1,1 @@
+<p class="text-center">A new company has been added to the system</p>
